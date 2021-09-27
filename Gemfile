@@ -41,6 +41,6 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 gem "devise", "~> 4.7"
 gem 'sprockets-rails', '~> 3.2', '>= 3.2.1'
-gem 'nokogiri', '~> 1.10'
+gem 'nokogiri', '~> 1.12'
 gem 'pagy', '~> 3.8'
 gem 'd3-rails', '~> 5.9', '>= 5.9.2'
